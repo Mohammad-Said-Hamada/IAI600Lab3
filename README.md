@@ -1,3 +1,3 @@
 # IAI600Lab3
-##California Housing Prices
+##California Housing Prices##
 The California Housing Price Prediction project aims to predict median house values in California using census data features such as median income, location, and housing characteristics. Multiple machine learning models—Linear Regression, Decision Tree, Random Forest, and Support Vector Regressor—were used to predict prices, with Random Forest delivering the best results. The project involved data cleaning, feature engineering, model training, and hyperparameter tuning, achieving improved accuracy in price estimation. Future enhancements may include adding more features and deploying the model as a web application for real-time predictions.
